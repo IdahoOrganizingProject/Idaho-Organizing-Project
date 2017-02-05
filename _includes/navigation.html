@@ -3,22 +3,25 @@
   <ul class="sidebar-nav">
     <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
     <li class="sidebar-brand">
-      <a href="#top"  onclick = $("#menu-close").click(); >Start Bootstrap</a>
+      <a href="#top"  onclick = $("#menu-close").click(); >#IoP</a>
     </li>
     <li>
-      <a href="#top" onclick = $("#menu-close").click(); >Home</a>
+      <a href="{{ site.url }}" onclick = $("#menu-close").click(); >Home</a>
     </li>
     <li>
-      <a href="#about" onclick = $("#menu-close").click(); >About</a>
+      <a href="{{ site.url }}#about" onclick = $("#menu-close").click(); >About</a>
     </li>
     <li>
-      <a href="#organize" onclick = $("#menu-close").click(); >Organize</a>
+      <a href="{{ site.url }}#organize" onclick = $("#menu-close").click(); >Organize</a>
     </li>
     <li>
-      <a href="#media" onclick = $("#menu-close").click(); >Media</a>
+      <a href="{{ site.baseurl }}{% link blog/blog.html %}" onclick = $("#menu-close").click(); >Blog</a>
     </li>
     <li>
-      <a href="#contact" onclick = $("#menu-close").click(); >Contact</a>
+      <a href="{{ site.url }}#media" onclick = $("#menu-close").click(); >Media</a>
+    </li>
+    <li>
+      <a href="{{ site.url }}#contact" onclick = $("#menu-close").click(); >Contact</a>
     </li>
   </ul>
 </nav>

@@ -17,8 +17,7 @@ body {
 }
 .text-header-main {
     display: table-cell;
-    padding-left: 165px;
-    padding-top: 75px;
+    padding-left: 10px;
 }
 .text-vertical-center {
     display: table-cell;
@@ -163,6 +162,10 @@ hr.small {
 
 /* Header */
 
+.page-header {
+    width: 100%;
+    background-image:url('{{ site.baseurl }}{% link img/header.jpg %}') no-repeat center center scroll;
+}
 .header {
     display: table;
     position: relative;
@@ -178,6 +181,25 @@ hr.small {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+.navbar-brand {
+  padding-top: 28px;
+  font-size: 4.5em;
+  font-weight: 700;
+  color: white;
+  float: none;
+}
+.navbar-header {
+  float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.navbar-brand a {
+  padding-top: 20px;
 }
 
 /* About */
@@ -268,4 +290,16 @@ hr.small {
 
 footer {
     padding: 100px 0;
+}
+
+/* Mailchimp */
+#mc_embed_signup {
+  background:#fff;
+  clear:left;
+  width:100%;
+  
+}
+#mc_embed_signup label {
+  font-size:1.8em !important;
+  font-weight: normal;
 }
