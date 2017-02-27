@@ -194,6 +194,7 @@ hr.small {
     padding: 15px;
     text-align: center;
     width: 100%;
+    padding-top: 30px;
 }
 .navbar-inverse .navbar-brand {
     color: white;
@@ -225,6 +226,9 @@ hr.small {
   color: white;
   background: black;
   border-radius: 50%;
+}
+h4 a {
+  color: white;
 }
 
 /* Callout */
