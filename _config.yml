@@ -1,8 +1,7 @@
 # Site settings
 title: Idaho Organizing Project
 email: idorganizingproject@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  The Idaho Organizing Project resists Trumpism in Idaho.
+description: The Idaho Organizing Project resists Trumpism in Idaho.
 baseurl: "Idaho-Organizing-Project" # the subpath of your site, e.g. /blog/
 # baseurl: ""
 url: "https://idahoorganizingproject.github.io" # the base hostname & protocol for your site
