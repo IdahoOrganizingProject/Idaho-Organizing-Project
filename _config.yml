@@ -2,7 +2,7 @@
 title: Idaho Organizing Project
 email: idorganizingproject@gmail.com
 description: The Idaho Organizing Project resists Trumpism in Idaho.
-baseurl: /Idaho-Organizing-Project # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 # baseurl: ""
 url: "https://idahoorganizingproject.github.io/Idaho-Organizing-Project/" # the base hostname & protocol for your site
 
