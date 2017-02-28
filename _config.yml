@@ -22,7 +22,7 @@ copyright:
 
 # API settings
 # google_api_key:
-include: ['_pages']
+# include: ['_pages']
 # permalink: /:title/
 
 # Build settings
