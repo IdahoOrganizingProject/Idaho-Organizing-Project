@@ -246,7 +246,12 @@ h4 a {
 }
 
 /* Blog */
-
+.page-header {
+  padding-bottom: 100px;
+}
+.post-hed {
+  padding-left: 20px;
+}
 
 /* Portfolio */
 
