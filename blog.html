@@ -22,7 +22,11 @@ permalink: /blog/
           		    <h1 class='post-title'><a href="{{post.url | prepend: site.url }}">{{post.title}}</a></h1>
           				<div class='post-date'>{{ post.date | date: "%B %d, %Y"}}</div>
         				</div>
-        				<div class='post-content'>{{post.categories}}</div>
+        				<div class='post-content'>
+        				  {% for category in post.categories %}
+        				  {{ category }}&nbsp;&nbsp;
+        				  {% endfor %}
+        				  </div>
         			</div>
           	</li>
             {% endfor %}
