@@ -38,3 +38,18 @@ $(document).ready(function() {
     $('#map_iframe').addClass('scrolloff');
   });
 });
+
+/* <script type="text/javascript">
+	function applyTiles() {
+		var posts = $('#posts ul');
+		posts.imagesLoaded(function() {
+			$('#posts ul').masonry({ itemSelector : '.post' });
+		});
+	};
+	$(function() {
+		applyTiles();
+	});
+	$(window).resize(function() {
+		applyTiles();
+	});
+</script> */
