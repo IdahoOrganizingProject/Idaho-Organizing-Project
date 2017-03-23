@@ -19,7 +19,7 @@ permalink: /blog/
       				{% endif %}
       				<div class="postcontent">
       				  <div class="postBoxTop"
-          		    <a href='{{post.url | prepend: site.url }}'><h1 class='post-title'>{{post.title}}</h1></a>
+          		    <h1 class='post-title'><a href="{{post.url | prepend: site.url }}">{{post.title}}</a></h1>
           				<div class='post-date'>{{ post.date | date: "%B %d, %Y"}}</div>
         				</div>
         				<div class='post-content'>{{post.categories}}</div>
