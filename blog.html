@@ -19,7 +19,7 @@ permalink: /blog/
       				{% endif %}
       				<div class="postcontent">
       				  <div class="postBoxTop"
-          		    <a href='{{post.url | prepend: site.baseurl }}'><h1 class='post-title'>{{post.title}}</h1></a>
+          		    <a href='{{post.url | prepend: site.url }}'><h1 class='post-title'>{{post.title}}</h1></a>
           				<div class='post-date'>{{ post.date | date: "%B %d, %Y"}}</div>
         				</div>
         				<div class='post-content'>{{post.categories}}</div>
@@ -30,6 +30,6 @@ permalink: /blog/
       </div> <!-- /.posts -->
     </div> <!-- /.col-lg-10 -->
     </div> <!-- /.row -->
-    <p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <p>subscribe <a href="{{ "/feed.xml" | prepend: site.url }}">via RSS</a></p>
   </div> <!-- /.container -->
 </section>
