@@ -2,12 +2,6 @@
 layout: post
 title:  "10 Reasons to STOP ICE in Jerome County"
 date:   2017-07-01 16:00:00
-author: Nathaniel Hoffman
-image:
-  -url: /img/keepiceouttajerome.jpg
-  alt: Keep ICE OUTTA Jerome
-  title: KEep ICE OUTTA Jerome
-
 categories: ICE immigration Jerome County
 ---
 
@@ -19,19 +13,19 @@ The Idaho Organizing Project is encouraging people to attend the Monday Commissi
 Here are:
 ### 10 Reasons to STOP ICE Setting Up Shop in the New Jerome County Jail
 
-1. ICE uses local jails as a **dragnet** to expand its reach, to round up more people, and to gather more info on the community. With a permanent presence at the County Jail, immigration officers will be on site, will interact more frequently with local law enforcement and will troll inmates and their families.
+1. ICE uses local jails as a **dragnet** to expand its reach, to round up more people, and to gather more info on the community. With a permanent presence at the County Jail, immigration officers will interact more frequently with local law enforcement, eroding the trust the community has in the police.
 2. There are no ICE detention facilities in Idaho at the moment. Having 50 ICE beds in Jerome -- that the feds pay for whether or not they are full -- sets up a huge **incentive for ICE** to fill those beds, to arrest more people, and to hold them longer.
-3. That also means that if you are waiting to see an immigration judge, to post bond, for example, you will **have to wait longer** -- months longer -- before you can see a judge.
-4. Counties and cities should not be holding inmates AT ALL for federal immigration authorities. Local law enforcement is **not beholden to federal immigration agency dictates**. Many police departments choose to police for ALL members of their communities, rather than targeting immigrants and people of color. This makes their jobs EASIER and makes the community SAFER.
-5. Jerome is a major **hub of the Latino community** in Idaho. Jerome County is **33%** Latino, according the the U.S. Census Bureau. Bringing ICE into the local jail is a clear violation of the community's trust, spreads legitimate fear throughout the county, and ultimately hurts the county.
-6. ICE is **bad for business** in the Magic Valley, where farms and dairies dominate the economy and where much of the workforce is undocumented.
-7. Undocumented community members have many, **long-standing ties to the Magic Valley**, including U.S. citizen children and spouses, friends and neighbors with myriad immigration statuses, and roots in the cities and towns of the valley that go back a century or more.
-8. ICE, local law enforcement and the County Commissioners **do not understand** that immigration status is a complex and fluid category, that non-citizens are some of our best citizens, or that brown skin is not reasonalble cause for search and siezure, as evidenced by recent emails to a constituent (see below).
-9. The state Attorney Gerneal's Office is already investigating Jerome County Sheriff Doug McFall is [for misuse of county resources](http://magicvalley.com/news/local/crime-and-courts/former-jerome-sheriff-s-lieutenant-accused-of-taking-money-ag/article_208fee99-87c4-547d-bc52-51aea5c78eea.html) and one of his liutenants has resigned.
+3. That also means that if you are waiting to see an immigration judge, to post bond, for example, you are likely to **spend more time in detention** before being able to see an immigration judge. The process already takes more than a month.
+4. Counties and cities should not be holding inmates AT ALL for federal immigration authorities. Local law enforcement is **not beholden to federal immigration agency dictates**. Many police departments choose to police for ALL members of their communities, and actively resist programs that make immigrants and people of color doubt their ability to protect and serve. Trusting relationships make policing EASIER and make the community SAFER.
+5. Jerome is a major **hub of the Latino community** in Idaho and has worked hard to become a welcoming community. Jerome County is **33%** Latino, according the the U.S. Census Bureau. The County proposal to bring ICE into the local jail undermines efforts in the City of Jerome, spreads legitimate fear throughout the county, and will hurt the local economy.
+6. ICE is **bad for business** in the Magic Valley, where farms and dairies dominate the economy and have a high non-citizen workforce.
+7. The Latino community -- citizen and non-citizen alike -- has many, **long-standing ties to the Magic Valley**, including roots in the cities and towns of the valley that go back a century or more. The community includes children and spouses, friends and neighbors with mixed immigration statuses.
+8.  As evidenced by recent emails to a constituent (see below), ICE, local law enforcement, and the County Commissioners **do not understand** that immigration status is a complex and fluid category, that non-citizens are some of our best citizens, or that brown skin is not reasonable cause for search and seizure.
+9. The state Attorney General's Office is already investigating Jerome County Sheriff Doug McFall is [for misuse of county resources](http://magicvalley.com/news/local/crime-and-courts/former-jerome-sheriff-s-lieutenant-accused-of-taking-money-ag/article_208fee99-87c4-547d-bc52-51aea5c78eea.html) and one of his lieutenants has resigned.
 10. ICE has long been a **rogue government agency**, now run by the most anti-immigration forces in our nation, under the Trump administration.
 
 * CALL the County: (208) 644-2701, or email chowell@jerome.id.us.
-* CALL the Sherriff: (208) 342-1911 and tell them NO to using the Jerome jail as an immigration detention center.
+* CALL the Sheriff: (208) 342-1911 and tell them NO to using the Jerome jail as an immigration detention center.
 * SHOW UP at the County Commissioner meeting MONDAY July 3, 9:00 a.m., 300 N. Lincoln Ave., Jerome, Idaho 83338.
 
 Some quotes from **Jerome County Commissioner Roger Morley** in a note to a constituent:
