@@ -1,0 +1,7 @@
+title: "Jerome County residents protest ICE renting beds in the county jail"
+reporter: "Emily Duke"
+outlet: "KMVT11"
+date: "2017-07-03"
+link: "http://www.kmvt.com/content/news/Jerome-County-residents-protest-ICE-renting-beds-in-the-county-jail-432365543.html"
+excerpt: "When you have a contract that has a guaranteed payment whether the beds are filled or not, it provides a motive for more ice arrests," said immigration attorney Maria Andrade."
+image_link: "http://media.graytvinc.com/images/690*517/IMG_0891.JPG"
