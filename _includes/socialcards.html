@@ -22,7 +22,7 @@
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 {% if page.image %}
-  <meta content="/img/srcset/{{ page.image }}" property="og:image">
+  <meta content="{{ site.url }}/{{ page.image }}" property="og:image">
 {% else %}
   <meta content="/img/fists.png" property="og:image">
 {% endif %}
