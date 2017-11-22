@@ -18,6 +18,6 @@ Applicants are assisted by a cadre of volunteers and attorneys who walk them thr
 
 Our next Citizenship Day is December 16 in Caldwell. [Please donate before this date](https://bitly.com/iop-citizenship) so that we can help as many people as possible with their fees. We will have a full schedule of workshops in 2018 as well. 
 
-Tax-exempt donations will be processed by our fiscal sponsor, The Fund For Idaho, Inc., at this link: https://bitly.com/iop-citizenship
+Tax-exempt donations will be processed by our fiscal sponsor, The Fund For Idaho, Inc., at this link:[https://bitly.com/iop-citizenship](https://bitly.com/iop-citizenship)
 
 [![Donate to the IOP Citizenship Fee Fund today!](/img/crowdrise.png)](https://bitly.com/iop-citizenship)

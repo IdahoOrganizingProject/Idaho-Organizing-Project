@@ -10,11 +10,13 @@ html,
 body {
     width: 100%;
     height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #494e52;
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    line-height: 1.5;
 }
 
-body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
 .text-header-main {
     display: table-cell;
     padding-left: 10px;
@@ -208,6 +210,7 @@ hr.small {
 
 .about {
     padding: 50px 0;
+    background-color: #f4f4f4;
 }
 
 /* Organize */
@@ -221,7 +224,7 @@ hr.small {
 }
 .bg-organize {
     color: #fff;
-    background-color: #E24E42;
+    background-color: #c0b283;
 }
 .icon-warning {
   color: white;
@@ -351,6 +354,7 @@ h4 a {
 
 footer {
     padding: 100px 0;
+    background-color: #f4f4f4
 }
 
 /* Mailchimp */
@@ -358,6 +362,7 @@ footer {
   background:#fff;
   clear:left;
   width:100%;
+  background-color: #f4f4f4
   
 }
 #mc_embed_signup label {
