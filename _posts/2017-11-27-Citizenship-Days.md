@@ -6,7 +6,8 @@ categories: Citizenship immigration fundraising
 image: img/FLYER_CALDWELL_SMALL.PNG
 description: "Everything you need to know about IoP Citizenship Days"
 ---
-![Caldwell Citizenship Day](/img/FLYER_CALDWELL_SMALL.png)
+
+![Caldwell Citizenship Day](/img/FLYER_CALDWELL_SMALL.png){: .center-image }
 
 - RSVP or share our Facebook event: [https://www.facebook.com/events/1745775268789139/](https://www.facebook.com/events/1745775268789139/)
 

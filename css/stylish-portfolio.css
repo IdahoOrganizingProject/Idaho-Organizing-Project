@@ -369,3 +369,15 @@ footer {
   font-size:1.8em !important;
   font-weight: normal;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+.img-responsive
+{
+display: block;
+max-width: 100%;
+height: auto;
+}
