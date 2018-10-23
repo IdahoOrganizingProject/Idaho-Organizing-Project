@@ -2,6 +2,7 @@
 layout: post
 title:  "DACA The Fourth"
 date:   2017-07-03 16:00:00
+image: img/banner.jpg
 categories: DACA immigration Butch Otter
 ---
 ![#NoBanNoWallNoRaids](/img/banner.jpg){:style="margin-bottom:10px;margin-left:auto;margin-right:auto;width:800px;display: block;"}
