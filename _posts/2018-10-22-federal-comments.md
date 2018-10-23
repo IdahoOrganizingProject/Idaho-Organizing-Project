@@ -25,6 +25,7 @@ Vox: Getting rid of Flores means *indefinite family detention...* "The Flores se
 Good bullet points for your testimony from [fwd.us](https://www.fwd.us/news/fwd-us-statement-on-trump-administrations-proposal-to-terminate-the-flores-settlement-agreement/), including: children and families should not be thrown in jail indefinitely for fleeing violence and poverty, children especially should not be kept in jails or detention camps, if children are going to be detained, the standards that Flores established should AT LEAST be maintained, etc. See link for more info.
 
 <a title="By Gerald L. Nino, CBP, U.S. Dept. of Homeland Security [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CBP_pat_down.jpg"><img width="256" alt="CBP pat down" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CBP_pat_down.jpg/256px-CBP_pat_down.jpg"></a>
+
 CPB photo
 
 ## 2. Denial of public benefits
