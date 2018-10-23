@@ -7,7 +7,7 @@ image: img/caldwellFlyer.png
 description: "Everything you need to know about IoP Citizenship Days"
 ---
 
-![Caldwell Citizenship Day](/img/caldwellFlyer.pngg){: .center-image }
+![Caldwell Citizenship Day](/img/caldwellFlyer.png){: .center-image }
 
 - RSVP or share our Facebook event: [https://www.facebook.com/events/1745775268789139/](https://www.facebook.com/events/1745775268789139/)
 
