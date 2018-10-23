@@ -18,18 +18,19 @@ But agency rule changes are subject to public comment. This is your chance to vo
 ## 1. Flores rollback
 ICE is attempting to end the 1997 Flores agreement, which guarantees some protections for immigrant youth in detention. 
 
-<em>Submit your testimony against the [Apprehension, Processing, Care, and Custody of Alien Minors and Unaccompanied Alien Children rule](https://www.regulations.gov/document?D=ICEB-2018-0002-0001) by Nov. 6.</em>
+**Submit your testimony against the [Apprehension, Processing, Care, and Custody of Alien Minors and Unaccompanied Alien Children rule](https://www.regulations.gov/document?D=ICEB-2018-0002-0001) by Nov. 6.**
 
-Vox: Getting rid of Flores means <em>indefinite family detention...</em> "The Flores settlement requires the federal government to do two things: to place children with a close relative or family friend “without unnecessary delay,” rather than keeping them in custody; and to keep immigrant children who are in custody in the “least restrictive conditions” possible." Read more from [VOX](https://www.vox.com/2018/6/20/17484546/executive-order-family-separation-flores-settlement-agreement-immigration).
+Vox: Getting rid of Flores means *indefinite family detention...* "The Flores settlement requires the federal government to do two things: to place children with a close relative or family friend “without unnecessary delay,” rather than keeping them in custody; and to keep immigrant children who are in custody in the “least restrictive conditions” possible." Read more from [VOX](https://www.vox.com/2018/6/20/17484546/executive-order-family-separation-flores-settlement-agreement-immigration).
 
 Good bullet points for your testimony from [fwd.us](https://www.fwd.us/news/fwd-us-statement-on-trump-administrations-proposal-to-terminate-the-flores-settlement-agreement/), including: children and families should not be thrown in jail indefinitely for fleeing violence and poverty, children especially should not be kept in jails or detention camps, if children are going to be detained, the standards that Flores established should AT LEAST be maintained, etc. See link for more info.
 
-<a title="By Gerald L. Nino, CBP, U.S. Dept. of Homeland Security [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CBP_pat_down.jpg"><img width="256" alt="CBP pat down" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CBP_pat_down.jpg/256px-CBP_pat_down.jpg"></a>CPB photo
+<a title="By Gerald L. Nino, CBP, U.S. Dept. of Homeland Security [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CBP_pat_down.jpg"><img width="256" alt="CBP pat down" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CBP_pat_down.jpg/256px-CBP_pat_down.jpg"></a>
+CPB photo
 
 ## 2. Denial of public benefits
 USCIS wants to be able to deny admission, green cards, and eventual citizenship to low-income or percieved low-income immigrants based on a hypothetical suspicion they may one day use some public benefits. 
 
-Submit your testimony against the [Inadmissibility on Public Charge Grounds rule](https://www.regulations.gov/document?D=USCIS-2010-0012-0001) by Dec. 10
+**Submit your testimony against the [Inadmissibility on Public Charge Grounds rule](https://www.regulations.gov/document?D=USCIS-2010-0012-0001) by Dec. 10**
 
 Vox: "The problem is that while the regulation itself is complex — and in some ways more moderate than earlier versions of the proposal leaked to Vox and the Washington Post earlier this year — the message that immigrants are likely to receive is simple: that they shouldn’t use public benefits if they want to stay in the US." Read more from [Vox](https://www.vox.com/2018/9/24/17892350/public-charge-immigration-food-stamps-medicaid-trump)
 
