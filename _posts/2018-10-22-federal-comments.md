@@ -6,9 +6,10 @@ categories: immigration Flores beneficios
 image: img/protectImmigrantYouth.jpg
 description: "2 Trumpist immigration rule changes you can oppose"
 ---
-![<a href="https://www.flickr.com/photos/134055122@N07/albums/72157688521032040">Karla Cote via Flickr</a>, licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/2.0/">CC Attribution-NoDerivs 2.0 Generic License</a>.](/img/protectImmigrantYouth.jpg){: .center-image }
+![Protect immigrant youth!](/img/protectImmigrantYouth.jpg){: .center-image }
+<a href="https://www.flickr.com/photos/134055122@N07/albums/72157688521032040">Karla Cote via Flickr</a>, licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/2.0/">CC Attribution-NoDerivs 2.0 Generic License</a>.
 
-## Take action now against two Trump Administration immigration proposals by submitting public comment. 
+### Take action now against two Trump Administration immigration proposals by submitting public comment. 
 
 These are significant administrative rule changes at the immigration agencies that are not vetted through Congress. Obama used similar rule changes to grant deferred action and set deportation priorities. Republicans, including Trump, criticized the Obama Administration for going around Congress, but are now using the same tactics as they methodically dismantle the U.S. immigration system.
 
@@ -23,7 +24,7 @@ Vox: Getting rid of Flores means <em>indefinite family detention...</em> "The Fl
 
 Good bullet points for your testimony from [fwd.us](https://www.fwd.us/news/fwd-us-statement-on-trump-administrations-proposal-to-terminate-the-flores-settlement-agreement/), including: children and families should not be thrown in jail indefinitely for fleeing violence and poverty, children especially should not be kept in jails or detention camps, if children are going to be detained, the standards that Flores established should AT LEAST be maintained, etc. See link for more info.
 
-<a title="By Gerald L. Nino, CBP, U.S. Dept. of Homeland Security [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CBP_pat_down.jpg"><img width="256" alt="CBP pat down" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CBP_pat_down.jpg/256px-CBP_pat_down.jpg"></a>
+<a title="By Gerald L. Nino, CBP, U.S. Dept. of Homeland Security [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CBP_pat_down.jpg"><img width="256" alt="CBP pat down" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CBP_pat_down.jpg/256px-CBP_pat_down.jpg"></a>CPB photo
 
 ## 2. Denial of public benefits
 USCIS wants to be able to deny admission, green cards, and eventual citizenship to low-income or percieved low-income immigrants based on a hypothetical suspicion they may one day use some public benefits. 
