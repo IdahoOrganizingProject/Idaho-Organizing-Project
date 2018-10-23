@@ -15,7 +15,7 @@ permalink: /blog/
             {% for post in site.posts %}
               <li class='post'>
       				{% if post.image %}
-      					<a href='{{post.url}}'><img class='post-image' src="{{base.url}}/img/{{post.image}}" /></a>
+      					<a href='{{post.url}}'><img class='post-image' src="{{base.url}}/{{post.image}}" /></a>
       				{% endif %}
       				<div class="postcontent">
       				  <div class="postBoxTop"
