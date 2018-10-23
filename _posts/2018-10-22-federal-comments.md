@@ -9,11 +9,11 @@ description: "2 Trumpist immigration rule changes you can oppose"
 ![Protect immigrant youth!](/img/protectImmigrantYouth.jpg){: .center-image }
 <a href="https://www.flickr.com/photos/134055122@N07/albums/72157688521032040">Karla Cote via Flickr</a>, licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/2.0/">CC Attribution-NoDerivs 2.0 Generic License</a>.
 
-### Take action now against two Trump Administration immigration proposals by submitting public comment. 
+### Take action now against two Trump Administration immigration proposals: Submitting your public comment!
 
 These are significant administrative rule changes at the immigration agencies that are not vetted through Congress. Obama used similar rule changes to grant deferred action and set deportation priorities. Republicans, including Trump, criticized the Obama Administration for going around Congress, but are now using the same tactics as they methodically dismantle the U.S. immigration system.
 
-But agency rule changes are subject to public comment. This is your chance to voice opposition to Trump immigration policy. Here are details on how to submit testimony.
+But agency rule changes are subject to public comment. This is your chance to voice opposition to Trump immigration policy, on the record. Here are details on how to submit testimony.
 
 ## 1. Flores rollback
 ICE is attempting to end the 1997 Flores agreement, which guarantees some protections for immigrant youth in detention. 
